@@ -1,0 +1,10 @@
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\AplicacionWF\Filtrado4WF\bin\Debug\Filtrado4WF.exe.config
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\AplicacionWF\Filtrado4WF\bin\Debug\Filtrado4WF.exe
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\AplicacionWF\Filtrado4WF\bin\Debug\Filtrado4WF.pdb
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\AplicacionWF\Filtrado4WF\obj\Debug\Filtrado4WF.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\AplicacionWF\Filtrado4WF\obj\Debug\Filtrado4WF.Form1.resources
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\AplicacionWF\Filtrado4WF\obj\Debug\Filtrado4WF.Properties.Resources.resources
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\AplicacionWF\Filtrado4WF\obj\Debug\Filtrado4WF.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\AplicacionWF\Filtrado4WF\obj\Debug\Filtrado4WF.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\AplicacionWF\Filtrado4WF\obj\Debug\Filtrado4WF.exe
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\AplicacionWF\Filtrado4WF\obj\Debug\Filtrado4WF.pdb

@@ -1,0 +1,7 @@
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\Ejercicios  Prueba LinQ\Ejercicios3.Array\descending\bin\Debug\descending.exe.config
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\Ejercicios  Prueba LinQ\Ejercicios3.Array\descending\bin\Debug\descending.exe
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\Ejercicios  Prueba LinQ\Ejercicios3.Array\descending\bin\Debug\descending.pdb
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\Ejercicios  Prueba LinQ\Ejercicios3.Array\descending\obj\Debug\descending.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\Ejercicios  Prueba LinQ\Ejercicios3.Array\descending\obj\Debug\descending.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\Ejercicios  Prueba LinQ\Ejercicios3.Array\descending\obj\Debug\descending.exe
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\Ejercicios  Prueba LinQ\Ejercicios3.Array\descending\obj\Debug\descending.pdb

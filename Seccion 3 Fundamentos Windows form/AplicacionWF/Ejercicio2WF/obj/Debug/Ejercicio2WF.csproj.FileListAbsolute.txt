@@ -1,0 +1,10 @@
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\AplicacionWF\Ejercicio2WF\bin\Debug\Ejercicio2WF.exe.config
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\AplicacionWF\Ejercicio2WF\bin\Debug\Ejercicio2WF.exe
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\AplicacionWF\Ejercicio2WF\bin\Debug\Ejercicio2WF.pdb
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\AplicacionWF\Ejercicio2WF\obj\Debug\Ejercicio2WF.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\AplicacionWF\Ejercicio2WF\obj\Debug\Ejercicio2WF.Form1.resources
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\AplicacionWF\Ejercicio2WF\obj\Debug\Ejercicio2WF.Properties.Resources.resources
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\AplicacionWF\Ejercicio2WF\obj\Debug\Ejercicio2WF.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\AplicacionWF\Ejercicio2WF\obj\Debug\Ejercicio2WF.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\AplicacionWF\Ejercicio2WF\obj\Debug\Ejercicio2WF.exe
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\AplicacionWF\Ejercicio2WF\obj\Debug\Ejercicio2WF.pdb

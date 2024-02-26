@@ -1,0 +1,7 @@
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 2 Consultas Avanzadas Linq y uso de expresiones Lamdla\EjercicioInnerJoin\Ejercicio0.9\bin\Debug\Ejercicio0.9.exe.config
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 2 Consultas Avanzadas Linq y uso de expresiones Lamdla\EjercicioInnerJoin\Ejercicio0.9\bin\Debug\Ejercicio0.9.exe
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 2 Consultas Avanzadas Linq y uso de expresiones Lamdla\EjercicioInnerJoin\Ejercicio0.9\bin\Debug\Ejercicio0.9.pdb
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 2 Consultas Avanzadas Linq y uso de expresiones Lamdla\EjercicioInnerJoin\Ejercicio0.9\obj\Debug\Ejercicio0.9.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 2 Consultas Avanzadas Linq y uso de expresiones Lamdla\EjercicioInnerJoin\Ejercicio0.9\obj\Debug\Ejercicio0.9.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 2 Consultas Avanzadas Linq y uso de expresiones Lamdla\EjercicioInnerJoin\Ejercicio0.9\obj\Debug\Ejercicio0.9.exe
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 2 Consultas Avanzadas Linq y uso de expresiones Lamdla\EjercicioInnerJoin\Ejercicio0.9\obj\Debug\Ejercicio0.9.pdb

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database Name="CursoLinQ1" EntityNamespace="CursoLinQ1Context" ContextNamespace="CursoLinQ1Context" Class="CursoLinQ1DataContext" xmlns:ed="http://devart.com/schemas/EntityDeveloper/1.0" ed:Guid="274af9db-5661-40ae-958d-663bcbd5d2e9" Provider="Devart.Data.SqlServer.Linq.Provider.SqlDataProvider, Devart.Data.SqlServer.Linq" Extended="true" xmlns="http://schemas.devart.com/linqconnect/mapping">
+  <Connection Mode="ConnectionString" ConnectionString="Data Source=DESKTOP-Q3ESBCO\SQLEXPRESS;Initial Catalog=CursoLinQ1;Integrated Security=True;Persist Security Info=True" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.ALUMNO" Member="ALUMNOs">
+    <Type Name="ALUMNO" ed:Guid="d1d64291-0851-4269-8aaa-593f1ccb52fa">
+      <Column Name="IDALUMNO" Type="System.Int32" AutoSync="OnInsert" DbType="INT NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" UpdateCheck="Always" Precision="10" ed:ValidateRequired="true" ed:Guid="20e0cdcb-f6dd-4427-8e4f-cb1210c1aa3e" />
+      <Column Name="NOMBREALUMNO" Type="System.String" DbType="VARCHAR(50)" CanBeNull="true" UpdateCheck="Never" MaxLength="50" ed:ValidateMaxLength="50" ed:ValidateRequired="false" ed:Guid="c688243c-fff1-42b7-b5d1-ca1b8fa5e516" />
+      <Column Name="APELLIDOPATERNOALUMNO" Type="System.String" DbType="VARCHAR(100)" CanBeNull="true" UpdateCheck="Never" MaxLength="100" ed:ValidateMaxLength="100" ed:ValidateRequired="false" ed:Guid="6a7df566-60d3-4bc4-a9c9-58f58320c7e0" />
+      <Column Name="APELLIDOMATERNOALUMNO" Type="System.String" DbType="VARCHAR(100)" CanBeNull="true" UpdateCheck="Never" MaxLength="100" ed:ValidateMaxLength="100" ed:ValidateRequired="false" ed:Guid="2a58ff2d-1bbc-44d0-8345-ac3d579f8295" />
+      <Column Name="NOTA1" Type="System.Int32" DbType="INT" CanBeNull="true" UpdateCheck="Never" Precision="10" ed:ValidateRequired="false" ed:Guid="9cf5148a-a055-4c31-afa2-32b35bb2b196" />
+      <Column Name="NOTA2" Type="System.Int32" DbType="INT" CanBeNull="true" UpdateCheck="Never" Precision="10" ed:ValidateRequired="false" ed:Guid="0d9be93f-1552-40c2-ad1c-b5282913722d" />
+      <Column Name="NOTA3" Type="System.Int32" DbType="INT" CanBeNull="true" UpdateCheck="Never" Precision="10" ed:ValidateRequired="false" ed:Guid="4c47d357-aab9-4e7f-be99-59741e93a7fa" />
+      <Column Name="NOTA4" Type="System.Int32" DbType="INT" CanBeNull="true" UpdateCheck="Never" Precision="10" ed:ValidateRequired="false" ed:Guid="3411bd95-1240-49ef-a901-10474fdcc92f" />
+      <Column Name="CURSOFAVORITO" Type="System.String" DbType="VARCHAR(100)" CanBeNull="true" UpdateCheck="Never" MaxLength="100" ed:ValidateMaxLength="100" ed:ValidateRequired="false" ed:Guid="fe5b51b4-3d58-4c34-8fa9-f86bf57da439" />
+      <Column Name="NIVELACADEMICO" Type="System.String" DbType="VARCHAR(100)" CanBeNull="true" UpdateCheck="Never" MaxLength="100" ed:ValidateMaxLength="100" ed:ValidateRequired="false" ed:Guid="b48aa5d5-bc37-4fd4-bfd5-e8a7ea61d510" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Empleado" Member="Empleados">
+    <Type Name="Empleado" ed:Guid="648bf4ed-5ca2-4be1-ad1f-56445635e875">
+      <Column Name="CODIGO" Type="System.String" DbType="VARCHAR(8)" CanBeNull="true" UpdateCheck="Never" MaxLength="8" ed:ValidateMaxLength="8" ed:ValidateRequired="false" ed:Guid="bd0619ef-f8b1-4b65-9d33-a822a88b2447" />
+      <Column Name="NOMBRE" Type="System.String" DbType="NCHAR(10)" CanBeNull="true" UpdateCheck="Never" FixedLength="true" MaxLength="10" Unicode="true" ed:ValidateMaxLength="10" ed:ValidateRequired="false" ed:Guid="b2089931-671b-4eef-8cf6-1e85f54af998" />
+      <Column Name="APPATERNO" Type="System.String" DbType="NCHAR(10)" CanBeNull="true" UpdateCheck="Never" FixedLength="true" MaxLength="10" Unicode="true" ed:ValidateMaxLength="10" ed:ValidateRequired="false" ed:Guid="fc9a868c-69ae-49af-a385-f0ad61ed41df" />
+      <Column Name="APMATERNO" Type="System.String" DbType="NCHAR(10)" CanBeNull="true" UpdateCheck="Never" FixedLength="true" MaxLength="10" Unicode="true" ed:ValidateMaxLength="10" ed:ValidateRequired="false" ed:Guid="df0b68a3-94eb-49f2-b00b-9b2254945252" />
+      <Column Name="EDAD" Type="System.Int32" DbType="INT" CanBeNull="true" UpdateCheck="Never" Precision="10" ed:ValidateRequired="false" ed:Guid="3ea6a4f7-aafd-4a32-a854-4f32daf298bc" />
+    </Type>
+  </Table>
+</Database>

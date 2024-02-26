@@ -1,0 +1,7 @@
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\LinQ1.6\LinQ1.6\bin\Debug\LinQ1.6.exe.config
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\LinQ1.6\LinQ1.6\bin\Debug\LinQ1.6.exe
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\LinQ1.6\LinQ1.6\bin\Debug\LinQ1.6.pdb
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\LinQ1.6\LinQ1.6\obj\Debug\LinQ1.6.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\LinQ1.6\LinQ1.6\obj\Debug\LinQ1.6.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\LinQ1.6\LinQ1.6\obj\Debug\LinQ1.6.exe
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\LinQ1.6\LinQ1.6\obj\Debug\LinQ1.6.pdb

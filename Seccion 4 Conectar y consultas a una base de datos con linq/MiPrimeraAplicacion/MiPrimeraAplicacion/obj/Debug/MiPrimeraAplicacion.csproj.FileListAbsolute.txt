@@ -1,0 +1,46 @@
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\bin\Debug\MiPrimeraAplicacion.exe.config
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\bin\Debug\MiPrimeraAplicacion.exe
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\bin\Debug\MiPrimeraAplicacion.pdb
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\bin\Debug\Devart.Data.dll
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\bin\Debug\Devart.Data.Linq.dll
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\bin\Debug\Devart.Data.SqlServer.Linq.dll
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\bin\Debug\EntityFramework.dll
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\bin\Debug\Microsoft.ServiceModel.DomainServices.LinqToSql.dll
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\bin\Debug\EntityFramework.xml
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.Form1.resources
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.Form2.resources
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.Form3.resources
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.Form4.resources
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.Form5.resources
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.Form6.resources
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.Properties.Resources.resources
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.Test.resources
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.csproj.CopyComplete
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.exe
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.pdb
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\bin\Debug\MiPrimeraAplicacion.exe.config
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\bin\Debug\MiPrimeraAplicacion.exe
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\bin\Debug\MiPrimeraAplicacion.pdb
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\bin\Debug\Devart.Data.dll
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\bin\Debug\Devart.Data.Linq.dll
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\bin\Debug\Devart.Data.SqlServer.Linq.dll
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\bin\Debug\EntityFramework.dll
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\bin\Debug\Microsoft.ServiceModel.DomainServices.LinqToSql.dll
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\bin\Debug\EntityFramework.xml
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.Form1.resources
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.Form2.resources
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.Form3.resources
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.Form4.resources
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.Form5.resources
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.Form6.resources
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.Properties.Resources.resources
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.Test.resources
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.csproj.CopyComplete
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.exe
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 4 Conectar y consultas a una base de datos con linq\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.pdb

@@ -1,0 +1,10 @@
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\Prueba\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\Prueba\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\Prueba\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\Prueba\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\Prueba\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Form1.resources
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\Prueba\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\Prueba\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\Prueba\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\Prueba\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\Prueba\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb

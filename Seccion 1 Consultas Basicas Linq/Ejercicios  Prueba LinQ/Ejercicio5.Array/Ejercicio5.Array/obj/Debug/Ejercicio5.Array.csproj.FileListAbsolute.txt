@@ -1,0 +1,7 @@
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\Ejercicios  Prueba LinQ\Ejercicio5.Array\Ejercicio5.Array\bin\Debug\Ejercicio5.Array.exe.config
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\Ejercicios  Prueba LinQ\Ejercicio5.Array\Ejercicio5.Array\bin\Debug\Ejercicio5.Array.exe
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\Ejercicios  Prueba LinQ\Ejercicio5.Array\Ejercicio5.Array\bin\Debug\Ejercicio5.Array.pdb
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\Ejercicios  Prueba LinQ\Ejercicio5.Array\Ejercicio5.Array\obj\Debug\Ejercicio5.Array.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\Ejercicios  Prueba LinQ\Ejercicio5.Array\Ejercicio5.Array\obj\Debug\Ejercicio5.Array.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\Ejercicios  Prueba LinQ\Ejercicio5.Array\Ejercicio5.Array\obj\Debug\Ejercicio5.Array.exe
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\Ejercicios  Prueba LinQ\Ejercicio5.Array\Ejercicio5.Array\obj\Debug\Ejercicio5.Array.pdb

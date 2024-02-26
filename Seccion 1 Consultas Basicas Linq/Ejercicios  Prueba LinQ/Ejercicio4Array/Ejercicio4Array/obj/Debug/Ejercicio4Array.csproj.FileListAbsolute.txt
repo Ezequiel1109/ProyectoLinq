@@ -1,0 +1,7 @@
+C:\Users\david\source\repos\Ejercicio4Array\Ejercicio4Array\bin\Debug\Ejercicio4Array.exe.config
+C:\Users\david\source\repos\Ejercicio4Array\Ejercicio4Array\bin\Debug\Ejercicio4Array.exe
+C:\Users\david\source\repos\Ejercicio4Array\Ejercicio4Array\bin\Debug\Ejercicio4Array.pdb
+C:\Users\david\source\repos\Ejercicio4Array\Ejercicio4Array\obj\Debug\Ejercicio4Array.csprojAssemblyReference.cache
+C:\Users\david\source\repos\Ejercicio4Array\Ejercicio4Array\obj\Debug\Ejercicio4Array.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Ejercicio4Array\Ejercicio4Array\obj\Debug\Ejercicio4Array.exe
+C:\Users\david\source\repos\Ejercicio4Array\Ejercicio4Array\obj\Debug\Ejercicio4Array.pdb

@@ -1,0 +1,10 @@
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\AplicacionWF\FiltroWF\bin\Debug\FiltroWF.exe.config
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\AplicacionWF\FiltroWF\bin\Debug\FiltroWF.exe
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\AplicacionWF\FiltroWF\bin\Debug\FiltroWF.pdb
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\AplicacionWF\FiltroWF\obj\Debug\FiltroWF.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\AplicacionWF\FiltroWF\obj\Debug\FiltroWF.Form1.resources
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\AplicacionWF\FiltroWF\obj\Debug\FiltroWF.Properties.Resources.resources
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\AplicacionWF\FiltroWF\obj\Debug\FiltroWF.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\AplicacionWF\FiltroWF\obj\Debug\FiltroWF.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\AplicacionWF\FiltroWF\obj\Debug\FiltroWF.exe
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 3 Fundamentos Windows form, y utilidad de linq para el uso de aplcaciones\AplicacionWF\FiltroWF\obj\Debug\FiltroWF.pdb

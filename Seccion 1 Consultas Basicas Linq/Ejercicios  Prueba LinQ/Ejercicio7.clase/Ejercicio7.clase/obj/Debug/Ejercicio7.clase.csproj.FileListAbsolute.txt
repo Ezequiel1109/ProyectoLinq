@@ -1,0 +1,7 @@
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\Ejercicios  Prueba LinQ\Ejercicio7.clase\Ejercicio7.clase\bin\Debug\Ejercicio7.clase.exe.config
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\Ejercicios  Prueba LinQ\Ejercicio7.clase\Ejercicio7.clase\bin\Debug\Ejercicio7.clase.exe
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\Ejercicios  Prueba LinQ\Ejercicio7.clase\Ejercicio7.clase\bin\Debug\Ejercicio7.clase.pdb
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\Ejercicios  Prueba LinQ\Ejercicio7.clase\Ejercicio7.clase\obj\Debug\Ejercicio7.clase.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\Ejercicios  Prueba LinQ\Ejercicio7.clase\Ejercicio7.clase\obj\Debug\Ejercicio7.clase.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\Ejercicios  Prueba LinQ\Ejercicio7.clase\Ejercicio7.clase\obj\Debug\Ejercicio7.clase.exe
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\Ejercicios  Prueba LinQ\Ejercicio7.clase\Ejercicio7.clase\obj\Debug\Ejercicio7.clase.pdb

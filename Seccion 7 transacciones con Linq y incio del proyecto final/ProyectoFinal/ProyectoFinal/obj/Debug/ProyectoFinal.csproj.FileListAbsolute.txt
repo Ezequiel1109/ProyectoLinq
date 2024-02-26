@@ -1,0 +1,58 @@
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmPrincipal.resources
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmCineM.resources
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmEmpleadoM.resources
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmFuncionM.resources
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmMCliente.resources
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmPeliculaM.resources
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmPopUpCine.resources
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmPopUpCliente.resources
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmPopUpEmpleado.resources
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmPopUpFuncion.resources
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmPopUpPelicula.resources
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmPopUpSala.resources
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmSalaM.resources
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\bin\Debug\Devart.Data.dll
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\bin\Debug\Devart.Data.Linq.dll
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\bin\Debug\Devart.Data.SqlServer.Linq.dll
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CopyComplete
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmPrincipal.resources
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmBuscarC.resources
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmBuscarE.resources
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmCineM.resources
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmConsultaE.resources
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmConsultaPeliculaPorGenero.resources
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmConsultaReservaCliente.resources
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmEmpleadoM.resources
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmFuncionM.resources
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmMCliente.resources
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmPeliculaM.resources
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmPopUpCine.resources
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmPopUpCliente.resources
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmPopUpEmpleado.resources
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmPopUpFuncion.resources
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmPopUpPelicula.resources
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmPopUpSala.resources
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmReserva.resources
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmSalaM.resources
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\bin\Debug\Devart.Data.dll
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\bin\Debug\Devart.Data.Linq.dll
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\bin\Debug\Devart.Data.SqlServer.Linq.dll
+C:\Users\david\OneDrive\Escritorio\cursos udemy\Curso de c# Linq\Seccion 7 transacciones con Linq y incio del proyecto final\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CopyComplete

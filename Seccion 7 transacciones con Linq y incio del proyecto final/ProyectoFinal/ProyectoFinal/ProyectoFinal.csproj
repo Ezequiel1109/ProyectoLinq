@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A0C993C1-13D1-4C59-9B6F-C7DEBB4EBAC2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProyectoFinal</RootNamespace>
+    <AssemblyName>ProyectoFinal</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Devart.Data, Version=5.0.2604.0, Culture=neutral, PublicKeyToken=09af7300eec23701, processorArchitecture=MSIL" />
+    <Reference Include="Devart.Data.Linq, Version=4.9.2149.0, Culture=neutral, PublicKeyToken=09af7300eec23701, processorArchitecture=MSIL" />
+    <Reference Include="Devart.Data.SqlServer.Linq, Version=4.9.2149.0, Culture=neutral, PublicKeyToken=09af7300eec23701, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Conexiondbml.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Conexiondbml.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="ENTRADA.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscarC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarC.Designer.cs">
+      <DependentUpon>frmBuscarC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscarE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarE.Designer.cs">
+      <DependentUpon>frmBuscarE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCineM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCineM.Designer.cs">
+      <DependentUpon>frmCineM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultaE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultaE.Designer.cs">
+      <DependentUpon>frmConsultaE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultaPeliculaPorGenero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultaPeliculaPorGenero.Designer.cs">
+      <DependentUpon>frmConsultaPeliculaPorGenero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultaReservaCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultaReservaCliente.Designer.cs">
+      <DependentUpon>frmConsultaReservaCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmpleadoM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmpleadoM.Designer.cs">
+      <DependentUpon>frmEmpleadoM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFuncionM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFuncionM.Designer.cs">
+      <DependentUpon>frmFuncionM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMCliente.Designer.cs">
+      <DependentUpon>frmMCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPeliculaM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPeliculaM.Designer.cs">
+      <DependentUpon>frmPeliculaM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPopUpCine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPopUpCine.Designer.cs">
+      <DependentUpon>frmPopUpCine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPopUpCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPopUpCliente.Designer.cs">
+      <DependentUpon>frmPopUpCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPopUpEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPopUpEmpleado.Designer.cs">
+      <DependentUpon>frmPopUpEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPopUpFuncion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPopUpFuncion.Designer.cs">
+      <DependentUpon>frmPopUpFuncion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPopUpPelicula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPopUpPelicula.Designer.cs">
+      <DependentUpon>frmPopUpPelicula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPopUpSala.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPopUpSala.Designer.cs">
+      <DependentUpon>frmPopUpSala.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReserva.Designer.cs">
+      <DependentUpon>frmReserva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSalaM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSalaM.Designer.cs">
+      <DependentUpon>frmSalaM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funcion.cs" />
+    <Compile Include="Pelicula.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reserva.cs" />
+    <Compile Include="TipoEntrada.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarC.resx">
+      <DependentUpon>frmBuscarC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarE.resx">
+      <DependentUpon>frmBuscarE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCineM.resx">
+      <DependentUpon>frmCineM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultaE.resx">
+      <DependentUpon>frmConsultaE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultaPeliculaPorGenero.resx">
+      <DependentUpon>frmConsultaPeliculaPorGenero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultaReservaCliente.resx">
+      <DependentUpon>frmConsultaReservaCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmpleadoM.resx">
+      <DependentUpon>frmEmpleadoM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFuncionM.resx">
+      <DependentUpon>frmFuncionM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMCliente.resx">
+      <DependentUpon>frmMCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPeliculaM.resx">
+      <DependentUpon>frmPeliculaM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPopUpCine.resx">
+      <DependentUpon>frmPopUpCine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPopUpCliente.resx">
+      <DependentUpon>frmPopUpCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPopUpEmpleado.resx">
+      <DependentUpon>frmPopUpEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPopUpFuncion.resx">
+      <DependentUpon>frmPopUpFuncion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPopUpPelicula.resx">
+      <DependentUpon>frmPopUpPelicula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPopUpSala.resx">
+      <DependentUpon>frmPopUpSala.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReserva.resx">
+      <DependentUpon>frmReserva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSalaM.resx">
+      <DependentUpon>frmSalaM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Conexiondbml.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>Conexiondbml.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Conexiondbml.dbml.layout">
+      <DependentUpon>Conexiondbml.dbml</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

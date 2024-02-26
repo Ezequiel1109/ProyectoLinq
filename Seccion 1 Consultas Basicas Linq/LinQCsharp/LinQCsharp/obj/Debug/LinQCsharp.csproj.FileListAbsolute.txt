@@ -1,0 +1,7 @@
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\LinQCsharp\LinQCsharp\bin\Debug\LinQCsharp.exe.config
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\LinQCsharp\LinQCsharp\bin\Debug\LinQCsharp.exe
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\LinQCsharp\LinQCsharp\bin\Debug\LinQCsharp.pdb
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\LinQCsharp\LinQCsharp\obj\Debug\LinQCsharp.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\LinQCsharp\LinQCsharp\obj\Debug\LinQCsharp.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\LinQCsharp\LinQCsharp\obj\Debug\LinQCsharp.exe
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\LinQCsharp\LinQCsharp\obj\Debug\LinQCsharp.pdb

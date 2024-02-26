@@ -1,0 +1,7 @@
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\LinQClases1.4\LinQClases1.4\bin\Debug\LinQClases1.4.exe.config
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\LinQClases1.4\LinQClases1.4\bin\Debug\LinQClases1.4.exe
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\LinQClases1.4\LinQClases1.4\bin\Debug\LinQClases1.4.pdb
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\LinQClases1.4\LinQClases1.4\obj\Debug\LinQClases1.4.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\LinQClases1.4\LinQClases1.4\obj\Debug\LinQClases1.4.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\LinQClases1.4\LinQClases1.4\obj\Debug\LinQClases1.4.exe
+C:\Users\david\OneDrive\Escritorio\Curso de c# Linq\Seccion 1 Consultas Basicas Linq\LinQClases1.4\LinQClases1.4\obj\Debug\LinQClases1.4.pdb
